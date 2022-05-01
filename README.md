@@ -1,5 +1,5 @@
 # React Admin Dashboard
-[react-admin-dashboard](react-admin-dashbd.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18403cd4-26c0-4a66-8929-0277989229e6/deploy-status)](https://app.netlify.com/sites/react-admin-dashbd/deploys)
 ![background](bg.jpg)
 
 ### Description
